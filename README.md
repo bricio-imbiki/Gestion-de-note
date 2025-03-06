@@ -22,9 +22,6 @@ The student grade management application is a tool developed in PHP, using a WAM
 3. View and analyze the student grades and performance.
 
 ## Authors
-
-- Juvaldo Wisman (code: 0023)
-- Simouri Sullivan (code: 0056)
-- Imbiki Bricio (code: 0013)
+- Imbiki Bricio 
 
 For more details, please refer to the user manual.
