@@ -8,7 +8,7 @@ The student grade management application is a tool developed in PHP, using a WAM
 
 1. Clone the repository.
     ```bash
-    git clone [https://github.com/your-username/student-grade-management.git](https://github.com/bricio-imbiki/Gestion-de-note.git)
+    git clone https://github.com/bricio-imbiki/Gestion-de-note.git
     ```
 2. Set up the WAMP server.
 3. Import the `gestion_notes_etudiant.sql` file into the database.
