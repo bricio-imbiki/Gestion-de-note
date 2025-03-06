@@ -1,27 +1,30 @@
-# Projet Gestion Financière
+# Student Grade Management Project
 
-## Présentation
+## Overview
 
-L'application de gestion financière est un outil développé en PHP, utilisant un serveur WAMP pour la gestion de la base de données. Elle permet de suivre et d'analyser les bénéfices générés par une entreprise.
+The student grade management application is a tool developed in PHP, using a WAMP server for database management. It allows tracking and managing student grades efficiently.
 
 ## Installation
 
-1. Cloner le dépôt.
+1. Clone the repository.
     ```bash
-    git clone [https://github.com/votre-utilisateur/projet-gestion-financiere](https://github.com/bricio-imbiki/Gestion-de-note/new/main?filename=README.md).git
+    git clone [https://github.com/your-username/student-grade-management.git](https://github.com/bricio-imbiki/Gestion-de-note.git)
     ```
-2. Configurer le serveur WAMP.
-3. Importer le fichier `gestion_financiere.sql` dans la base de données.
-4. Configurer les paramètres de connexion à la base de données dans `Model/Bddconect.php`.
-5. Lancer le serveur et accéder à `index.php` via le navigateur.
+2. Set up the WAMP server.
+3. Import the `gestion_notes_etudiant.sql` file into the database.
+4. Configure the database connection settings in `Model/Bddconect.php`.
+5. Start the server and access `index.php` via the browser.
 
-## Utilisation
+## Usage
 
-1. Saisir les informations comptables dans le journal.
-2. Appuyer sur le bouton "Traiter" pour générer le tableau du compte de résultat.
-3. Visualiser les soldes intermédiaires de gestion (SIG).
+1. Enter student information and grades in the provided forms.
+2. Click the "Process" button to generate the grade report.
+3. View and analyze the student grades and performance.
 
-## Auteurs
-- Imbiki Bricio 
+## Authors
 
-Pour plus de détails, veuillez consulter le manuel d'utilisation.
+- Juvaldo Wisman (code: 0023)
+- Simouri Sullivan (code: 0056)
+- Imbiki Bricio (code: 0013)
+
+For more details, please refer to the user manual.
